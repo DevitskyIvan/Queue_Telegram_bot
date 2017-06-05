@@ -2,8 +2,8 @@
 Telegram bot for working with queues
 
 1) install libraries, console command:
-##pip3 install pyTelegramBotAPI
-##pip3 install numpy
+## pip3 install pyTelegramBotAPI
+## pip3 install numpy
 
 2) Run main.py
 
